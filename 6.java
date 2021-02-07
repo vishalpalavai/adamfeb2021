@@ -1,1 +1,1 @@
- First line Sixth file
+ java file 6
